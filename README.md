@@ -1,25 +1,22 @@
-<!-- 🌌 ANIMATED CYBER HEADER -->
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,65:581c87,100:a855f7&height=180&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Praveen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7e22ce,100:a855f7&height=180&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Praveen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- ⚡ TYPING ANIMATION -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF9BCE&center=true&vCenter=true&width=800&height=50&lines=Building+secure+systems+%7C+Learning+every+day+%F0%9F%9A%80;Cybersecurity+%E2%80%A2+Cloud+Security+%E2%80%A2+AI;Future+Cloud+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Turning+ideas+into+real+projects+%F0%9F%92%BB" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF9BCE&center=true&vCenter=true&width=800&height=50&lines=Building+secure+systems+%7C+Learning+every+day+%F0%9F%9A%80;Cybersecurity+%E2%80%A2+Cloud+Security+%E2%80%A2+AI;Aspiring+Cloud+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+%7C+Learning+%7C+Growing+%F0%9F%92%BB" alt="Typing headlines" />
 </p>
 
-<!-- ✨ CYBER LINE -->
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897927-2f1c9f4b-5e6d-4f0e-bc5d-7c9e4d8f4f0f.gif" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Praveenkumar9-hub&label=Profile%20Views&color=a855f7&style=for-the-badge" />
 </p>
+
+---
 
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **Projects with AI**  
-🌱 &nbsp;I'm currently learning **Cybersecurity | AI**
+🌱 &nbsp;I'm currently learning **Cybersecurity | AI**  
+🎯 &nbsp;My goal is to become a **Cloud Security Engineer**
 
 ### 🛠️ Tech Stack
 
@@ -49,24 +46,24 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Praveenkumar9-hub&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=ff9bce&hide_border=true&bg_color=00000000&langs_count=8" />
 </p>
 
-### 📈 Contribution Graph
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumar9-hub&bg_color=0f172a&color=ff9bce&line=a855f7&point=56d4dd&area=true&area_color=312e81&hide_border=true" />
+  <i>Coming soon... 🐍⚡</i>
 </p>
 
-<!-- 🐍 CONTRIBUTION ANIMATION -->
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Praveenkumar9-hub/Praveenkumar9-hub/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<!-- 🌌 FOOTER -->
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,40:581c87,70:1e1b4b,100:0f172a&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,35:7e22ce,70:312e81,100:0f172a&height=110&section=footer" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Praveenkumar9-hub">Praveenkumar9-hub</a></i>
+  <b>💜 Building • Learning • Securing 🚀</b>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Praveenkumar9-hub">Praveenkumar9-hub</a>
 </p>
